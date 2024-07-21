@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "traderballoonsmod",
+  "name": "Trader Balloons",
+  "authors": [
+    "grumium"
+  ],
+  "description": "Makes trader camps visible from far away.",
+  "version": "1.0.0"
+}

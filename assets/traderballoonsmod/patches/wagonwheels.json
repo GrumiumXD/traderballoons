@@ -1,0 +1,30 @@
+[
+  {
+    "op": "replace",
+    "path": "/shapebytype/*-west/base",
+    "value": "traderballoonsmod:block/balloon/{type}",
+    "file": "game:blocktypes/wood/wagonwheels.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/shapebytype/*-east/base",
+    "value": "traderballoonsmod:block/balloon/{type}",
+    "file": "game:blocktypes/wood/wagonwheels.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/shapebytype/*-south/base",
+    "value": "traderballoonsmod:block/balloon/{type}",
+    "file": "game:blocktypes/wood/wagonwheels.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/shapebytype/*-north/base",
+    "value": "traderballoonsmod:block/balloon/{type}",
+    "file": "game:blocktypes/wood/wagonwheels.json",
+    "side": "Server"
+  }
+]
